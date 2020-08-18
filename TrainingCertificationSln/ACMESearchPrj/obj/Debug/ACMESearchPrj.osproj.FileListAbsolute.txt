@@ -1,0 +1,2 @@
+C:\Users\moses\OneDrive\Documents\Pega Robot Studio\Projects\Pega-19\TrainingCertificationSln\ACMESearchPrj\obj\Debug\ImportTypeMap.resources
+C:\Users\moses\OneDrive\Documents\Pega Robot Studio\Projects\Pega-19\TrainingCertificationSln\ACMESearchPrj\obj\Debug\ACMESearchPrj.osproj.GenerateResource.Cache
